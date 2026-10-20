@@ -1,5 +1,8 @@
-title: Dima Gutnik
+title: PickledCabbage's Blog
 description: Fun tidbits & deep dives
 remote_theme: pages-themes/primer@v0.6.0
+header_pages:
+- index.md
+- about.md
 plugins:
 - jekyll-remote-theme
