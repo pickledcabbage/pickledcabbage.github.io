@@ -1,6 +1,6 @@
 title: PickledCabbage's Blog
 description: Fun tidbits & deep dives
 theme: minima
-header_pages:
+header_files:
   - index.md
   - about.md
